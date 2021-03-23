@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LiifeNotFound
-- 👀 I’m interested in Websites developing whit React
+- 👀 I’m interested in Websites developing whit React and IOS Dev
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React Teams
 - 📫 How to reach me https://t04-hendrick.vigion.pt/
