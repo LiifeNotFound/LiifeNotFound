@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @LiifeNotFound
-- 👀 I’m interested in Websites developing with React and IOS Dev
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on React Teams
+# Welcolme to my Repository!
+
+## Here you will be able to see all of my projects, download them and also make your pull request 
+
+- 👋 Hi, I’m Hendrik Lelis
+- 👀 I’m interested in IOS Developing and Website Developing
+- 🌱 I’m currently learning React and i am looking to learn Swift
 - 📫 How to reach me https://t04-hendrick.vigion.pt/
 
-<!---
-LiifeNotFound/LiifeNotFound is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If you want to recrute me for a project, message me on [Instagram](https://www.instagram.com/liife_not_found/) or send me an [email](hendrikbosses@gmail.com).
